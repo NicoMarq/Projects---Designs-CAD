@@ -24,4 +24,15 @@ Metal fairing part bracket & PROTECTEUR MODULE ALIMENTATION UREEA- Renautl Maste
 ![](Renault/3.jpg)
 ![](Renault/4.jpg)
 
-3) 
+3) As a freelancer I was hired by a group of Mechanical Engineers to design and calculate a retractable tribune to apply it in real life. 
+ The difference between the Gabriel and Emanuel rostrum was an automated scissor system.
+
+Retractable tribune:
+
+![](Retractable%20tribune/Emanuel%20Elstein%20client/1.jpg)
+![](Retractable%20tribune/Emanuel%20Elstein%20client/2.jpg)
+![](Retractable%20tribune/Emanuel%20Elstein%20client/3.jpg)
+![](Retractable%20tribune/Emanuel%20Elstein%20client/4.jpg)
+![](Retractable%20tribune/Emanuel%20Elstein%20client/5.jpg)
+![](Retractable%20tribune/Emanuel%20Elstein%20client/6.jpg)
+
