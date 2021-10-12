@@ -32,7 +32,8 @@ Retractable tribune:
 ![](Retractable%20tribune/Emanuel%20Elstein%20client/1.jpg)
 ![](Retractable%20tribune/Emanuel%20Elstein%20client/2.jpg)
 ![](Retractable%20tribune/Emanuel%20Elstein%20client/3.jpg)
-![](Retractable%20tribune/Emanuel%20Elstein%20client/4.jpg)
-![](Retractable%20tribune/Emanuel%20Elstein%20client/5.jpg)
-![](Retractable%20tribune/Emanuel%20Elstein%20client/6.jpg)
+![](Retractable%20tribune/Emanuel%20Elstein%20client/4.JPG)
+![](Retractable%20tribune/Emanuel%20Elstein%20client/5.JPG)
+![](Retractable%20tribune/Emanuel%20Elstein%20client/6.JPG)
+
 
