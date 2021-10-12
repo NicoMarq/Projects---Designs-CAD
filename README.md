@@ -8,5 +8,7 @@ Concrete mixer:
 ![](Lasso%20S.A/Concret%20mixer/1.jpg)
 ![](Lasso%20S.A/Concret%20mixer/2.jpg)
 
+Lawn mower part
+
 
 
