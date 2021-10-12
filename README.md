@@ -37,3 +37,9 @@ Retractable tribune:
 ![](Retractable%20tribune/Emanuel%20Elstein%20client/6.JPG)
 
 
+4) As a freelancer I am working with a plastic recycling machinery company. We are in the process of designing a machine to make plastic sleepers.
+
+Project:
+
+![](SGM%20-%20Industrial%20Machines/1.jpg)
+![](SGM%20-%20Industrial%20Machines/2.jpg)
