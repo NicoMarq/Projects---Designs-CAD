@@ -4,6 +4,7 @@
  Below , you can find some images and then in each folder you can find the files:
 
 1) As freelancer with Lasso S.A company, I designed the following parts:
+
 Concrete mixer:
 
 ![](Lasso%20S.A/Concret%20mixer/1.jpg)
@@ -16,5 +17,11 @@ Lawn mower part:
 
 2) As a Product Engineer at Renault Argentina I designed and applied the following parts for one project which I was also the Project Manager.
 
+Metal fairing part bracket & PROTECTEUR MODULE ALIMENTATION UREEA- Renautl Master project:
 
+![](Renault/1.jpg)
+![](Renault/2.jpg)
+![](Renault/3.jpg)
+![](Renault/4.jpg)
 
+3) 
