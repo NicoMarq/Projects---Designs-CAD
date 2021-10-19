@@ -1,6 +1,6 @@
-# Projects - Designs CAD
+# Projects - Designs CAD :nut_and_bolt:
 **Some Projects and designs worked with CADs Software (Catia , AutoCad, SolidWorks) as Freelancer and with Companies.**
- :U+2699:
+
  
  Below , you can find some images and then in each folder you can find the files:
 
