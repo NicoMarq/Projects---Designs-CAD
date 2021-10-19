@@ -45,3 +45,9 @@ Project:
 
 ![](SGM%20-%20Industrial%20Machines/1.jpg)
 ![](SGM%20-%20Industrial%20Machines/2.jpg)
+
+
+
+
+
+***Thanks for visiting my portfolio!***
