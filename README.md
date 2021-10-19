@@ -1,6 +1,7 @@
 # Projects - Designs CAD :nut_and_bolt:
 :round_pushpin:**Some Projects and designs worked with CADs Software (Catia , AutoCad, SolidWorks) as Freelancer and with Companies.** 
 
+:exclamation: For more information, please contact me! nico.marquez@hotmail.com :email:
  
  Below , you can find some images and then in each folder you can find the files:
 
