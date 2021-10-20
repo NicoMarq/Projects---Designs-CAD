@@ -46,7 +46,7 @@ Project:
 ![](SGM%20-%20Industrial%20Machines/1.jpg)
 ![](SGM%20-%20Industrial%20Machines/2.jpg)
 
-
+![](Balancor%20S.A/1.jpg)
 
 
 
